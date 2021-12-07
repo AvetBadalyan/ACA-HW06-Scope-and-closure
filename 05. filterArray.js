@@ -8,6 +8,6 @@ function filterFalsyValues(arr) {
       element !== "0"
     );
   });
+  return filteredArr;
 }
 console.log(filterFalsyValues(["hello", 1233, []]));
-//NEED TO FIX BUGS ENDEFINED
