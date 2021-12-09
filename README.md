@@ -8,14 +8,14 @@ Create a function that implements partial sum.
 
 Write a function redundant that takes in a string str and returns a function that returns.
 
-[02. takeAndReturnString.js](02. takeAndReturnString.js)
+[02. takeAndReturnString.js] (02. takeAndReturnString.js)
 
 # 3. Add suffix of the end of word
 
 Write a function that returns an anonymous function, which transforms its input by adding a
 particular suffix at the end.
 
-[03. addSufix.js](03. addSufix.js)
+[03. addSufix.js] (03. addSufix.js)
 
 # 4. function printAfter
 
