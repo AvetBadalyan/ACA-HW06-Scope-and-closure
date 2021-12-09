@@ -2,7 +2,7 @@
 //particular suffix at the end.
 function add_suffix(stringArr, suffix) {
   let newString = stringArr.map(function (element) {
-    element.concat(suffix);
+    return element.concat(suffix);
   });
   return newString;
 }
