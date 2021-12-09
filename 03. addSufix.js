@@ -8,4 +8,3 @@ function add_suffix(stringArr, suffix) {
 }
 
 console.log(add_suffix(["hopeless", "total"], "ly"));
-//need to fix bugs, returns undefined
