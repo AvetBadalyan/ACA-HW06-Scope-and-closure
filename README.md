@@ -2,7 +2,7 @@
 
 Create a function that implements partial sum.
 
-[01. funtctionWithFunction.js](01. funtctionWithFunction.js)
+[01. funtctionWithFunction.js] (https://github.com/AvetBadalyan/ACA-HW06-Scope-and-closure/blob/main/01.%20funtctionWithFunction.js)
 
 # 2. Take and return string
 
