@@ -21,3 +21,11 @@ if (unique(arr) === true) {
 } else {
   console.log(` Array DOES NOT consist only of unique elements`);
 }
+
+//version 2 Best solution
+function checkUnique(arr) {
+  return arr.every(function (v, i, a) {
+    return i == a.lastIndexOf(v);
+  });
+}
+console.log(checkUnique([1, 1, 2, 2]));
