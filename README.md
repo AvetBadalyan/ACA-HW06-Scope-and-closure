@@ -2,7 +2,7 @@
 
 Create a function that implements partial sum.
 
-(01.funtctionWithFunction.js)[01.funtctionWithFunction.js]
+[01.funtctionWithFunction.js](01.funtctionWithFunction.js)
 
 # 2. Take and return string
 
